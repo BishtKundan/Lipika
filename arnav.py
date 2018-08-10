@@ -15,7 +15,7 @@ for x in fruits:
 def my_function():
   print("Hello from a function1")
   print("Hello from a function2")
-  print("Hello from a function3")
+
 
 my_function()
 
