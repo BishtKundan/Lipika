@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+klksadkl askd askdjaslkdj daklsdj askldjask dasl jasda
+ok
+=======
 this is a text file for testing branches.
+>>>>>>> 890e39afb1664e09967656453a80c84c22c5151f
